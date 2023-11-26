@@ -1,3 +1,3 @@
 ### Tips Code Lab
 
-(Captura)[./captura.png]
+![Captura App](./Captura.png)
